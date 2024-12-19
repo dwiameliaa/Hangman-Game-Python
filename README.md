@@ -24,27 +24,27 @@ Before you start, ensure you have the following installed on your system:
 
 Follow these steps to run the project:
 
-1. Clone the repository:
+**1. Clone the repository**  
 ```git clone https://github.com/dwiameliaa/Hangman-Game-Python.git```
 
-2. Navigate to the project directory:
+**2. Navigate to the project directory**  
 ```cd Hangman-Game-Python```
 
-3. Create a virtual environment (optional but recommended):
+**3. Create a virtual environment (optional but recommended)**  
 ```python -m venv venv```
 
-4. Activate the virtual environment:
-  - **On Windows**:
+**4. Activate the virtual environment**  
+  - **On Windows**:  
 ```venv\Scripts\activate```
 
-  - **On macOS/Linux**:
+  - **On macOS/Linux**:  
 ```source venv/bin/activate```
 
-5. Install required dependencies:
+**5. Install required dependencies**  
 Install dependencies by running:
 ```pip install -r requirements.txt```
 
-6. Run the project:
+**6. Run the project**  
 ```python hangman.py```
 
 # Project Structure
