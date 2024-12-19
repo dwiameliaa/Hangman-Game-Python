@@ -41,7 +41,7 @@ Follow these steps to run the project:
 ```source venv/bin/activate```
 
 5. Install required dependencies:
-If your project requires external libraries, create a requirements.txt file listing them. Install dependencies by running:
+Install dependencies by running:
 ```pip install -r requirements.txt```
 
 6. Run the project:
