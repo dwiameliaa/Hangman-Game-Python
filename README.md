@@ -1,4 +1,4 @@
-# Hangman-Game-Python
+# Hangman Game
 
 Hangman is a word-guessing game developed using Python. In this version, players are required to log in first by entering their username. After logging in, players will directly enter the game.
 
@@ -17,8 +17,8 @@ Each correctly guessed word will add to the player’s score. After completing o
 # Prerequisites
 Before you start, ensure you have the following installed on your system:
 
-1. Python 3.x: You can download it from python.org.
-2. Git: To clone the repository. Install it from git-scm.com.
+1. **Python 3.x**: You can download it from python.org.
+2. **Git**: To clone the repository. Install it from git-scm.com.
 
 # How to Run
 
@@ -34,10 +34,10 @@ Follow these steps to run the project:
 ```python -m venv venv```
 
 4. Activate the virtual environment:
-- On Windows:
+  - **On Windows**:
 ```venv\Scripts\activate```
 
-- On macOS/Linux:
+  - **On macOS/Linux**:
 ```source venv/bin/activate```
 
 5. Install required dependencies:
@@ -48,6 +48,6 @@ If your project requires external libraries, create a requirements.txt file list
 ```python hangman.py```
 
 # Project Structure
-- hangman.py: The main script to run the game.
-- leaderBoard.txt: A text file that stores the leaderboard, including player scores and rankings.
-- bankSoal.txt: A text file that contains a collection of words or phrases to be guessed by the players in the game.
+- **hangman.py**: The main script to run the game.
+- **leaderBoard.txt**: A text file that stores the leaderboard, including player scores and rankings.
+- **bankSoal.txt**: A text file that contains a collection of words or phrases to be guessed by the players in the game.
